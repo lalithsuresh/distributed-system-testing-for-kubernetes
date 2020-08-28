@@ -1,0 +1,2 @@
+pkg: k8s.io/kubernetes/pkg/scheduler
+handler: deleteNodeFromCache
